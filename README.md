@@ -8,7 +8,7 @@
 ③モニターをクリック
 
 ④演習室の仮想マシンにアクセス(noVNC）
-　PASS:aaaaaa
+　`PASS:aaaaaa`
 
 ⑤端末を開く
 
