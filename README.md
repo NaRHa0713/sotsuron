@@ -25,7 +25,7 @@
 
 * kadai，testディレクトリの作成
 
-　【home/e1b20XXX/kadai/test】
+`【home/e1b20XXX/kadai/test】`
 
 　ルートがこのようになるように作成する。以後、testディレクトリを作業ディレクトリとする。
 　また、端末に【pwd】と入力することで現在のディレクトリを確認することができる。
@@ -41,7 +41,7 @@
 
 　ディレクトリの移動には『cdコマンド』を使用する。今回は下記のプログラムを打ち込む。
 
-　【cd kadai/test】
+`【cd kadai/test】`
 
 
 # 課題２　Hello Worldを出力するプログラムの作成(test1.c)
