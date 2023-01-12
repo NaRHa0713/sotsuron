@@ -290,7 +290,7 @@ return 0;
 以上です。ご協力ありがとうございました！！！
 最後にformsでアンケートの記入お願いします。
 
-
+https://docs.google.com/forms/d/e/1FAIpQLSf5DscyOStlyVvpeKNGyAgrMqLaSZ-TIMA5AH2R-xZkaB1UKw/
 
 
 
