@@ -291,7 +291,7 @@ return 0;
 最後にformsでアンケートの記入お願いします。
 
 
-## https://forms.gle/YUoEHzgvexfJ7Ck89:target="_blank"
+https://forms.gle/YUoEHzgvexfJ7Ck89{:target="_blank"}
 
 
 
