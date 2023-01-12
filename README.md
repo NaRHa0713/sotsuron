@@ -291,7 +291,8 @@ return 0;
 最後にformsでアンケートの記入お願いします。
 
 
-## https://docs.google.com/forms/d/1hkg-05ELJkZiqIXCzWwqO18UTJjUT1EpdcFoZ660tTQ
+## [link](https://forms.gle/YUoEHzgvexfJ7Ck89){:target="_blank"}
+
 
 
 
